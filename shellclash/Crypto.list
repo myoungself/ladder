@@ -1,5 +1,4 @@
 # ---(Crypto)---
-DOMAIN-SUFFIX,debot.ai
 DOMAIN-SUFFIX,bitcointalk.org
 DOMAIN-SUFFIX,bitfinex.com
 DOMAIN-SUFFIX,bitflyer.com
@@ -19,18 +18,20 @@ DOMAIN-SUFFIX,mexc.com
 DOMAIN-SUFFIX,probit.com
 DOMAIN-SUFFIX,uniswap.org
 DOMAIN-SUFFIX,upbit.com
-DOMAIN-SUFFIX,pump.fun
-DOMAIN-SUFFIX,gmgn.ai
-DOMAIN-SUFFIX,axiom.trade
 DOMAIN-SUFFIX,pumpill.fun
 DOMAIN-SUFFIX,letsbonk.fun
 DOMAIN-SUFFIX,hyperliquid.xyz
 DOMAIN-SUFFIX,x402scan.com
 DOMAIN-SUFFIX,x402.org
 DOMAIN-KEYWORD,x402
+DOMAIN-SUFFIX,zama.org
+# > meme
+DOMAIN-SUFFIX,pump.fun
+DOMAIN-SUFFIX,gmgn.ai
 DOMAIN-SUFFIX,four.meme
 DOMAIN-SUFFIX,xxyy.io
-DOMAIN-SUFFIX,zama.org
+DOMAIN-SUFFIX,debot.ai
+DOMAIN-SUFFIX,axiom.trade
 # > Binane
 DOMAIN-KEYWORD,binance
 DOMAIN-SUFFIX,binance.com
