@@ -1,0 +1,53 @@
+# NAME: AI
+# DESC: 人工智能分流（OpenAI / Claude / Gemini / Grok / OpenRouter 等）
+# BASE: 在 blackmatrix7 的 OpenAI.list 基础上扩充
+# REPO: https://github.com/myoungself/ladder
+HOST,browser-intake-datadoghq.com
+HOST,chat.openai.com.cdn.cloudflare.net
+HOST,openai-api.arkoselabs.com
+HOST,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+HOST,openaicomproductionae4b.blob.core.windows.net
+HOST,production-openaicom-storage.azureedge.net
+HOST,static.cloudflareinsights.com
+HOST-SUFFIX,algolia.net
+HOST-SUFFIX,api.statsig.com
+HOST-SUFFIX,auth0.com
+HOST-SUFFIX,chatgpt.com
+HOST-SUFFIX,chatgpt.livekit.cloud
+HOST-SUFFIX,client-api.arkoselabs.com
+HOST-SUFFIX,featuregates.org
+HOST-SUFFIX,host.livekit.cloud
+HOST-SUFFIX,intercom.io
+HOST-SUFFIX,intercomcdn.com
+HOST-SUFFIX,launchdarkly.com
+HOST-SUFFIX,oaistatic.com
+HOST-SUFFIX,oaiusercontent.com
+HOST-SUFFIX,observeit.net
+HOST-SUFFIX,openai.com
+HOST-SUFFIX,openaiapi-site.azureedge.net
+HOST-SUFFIX,openaicom.imgix.net
+HOST-SUFFIX,segment.io
+HOST-SUFFIX,sentry.io
+HOST-SUFFIX,stripe.com
+HOST-SUFFIX,turn.livekit.cloud
+HOST-SUFFIX,civitai.com
+HOST,bard.google.com
+HOST,ai.google.dev
+HOST-SUFFIX,gemini.google.com
+HOST-SUFFIX,generativelanguage.googleapis.com
+HOST-SUFFIX,statsigapi.net
+HOST-SUFFIX,claude.ai
+HOST-SUFFIX,claude.com
+HOST-SUFFIX,anthropic.com
+HOST-SUFFIX,opera-api.com
+HOST-SUFFIX,aistudio.google.com
+HOST-SUFFIX,ciciai.com
+HOST-SUFFIX,grok.com
+HOST-SUFFIX,grokipedia.com
+HOST-SUFFIX,openrouter.ai
+HOST-KEYWORD,openai
+HOST-KEYWORD,chatgpt
+HOST-KEYWORD,claude
+IP-CIDR,24.199.123.28/32
+IP-CIDR,64.23.132.171/32
+IP-ASN,20473

@@ -18,12 +18,24 @@ HOST-SUFFIX,mexc.com
 HOST-SUFFIX,probit.com
 HOST-SUFFIX,uniswap.org
 HOST-SUFFIX,upbit.com
-HOST-SUFFIX,pump.fun
-HOST-SUFFIX,gmgn.ai
-HOST-SUFFIX,axiom.trade
 HOST-SUFFIX,pumpill.fun
 HOST-SUFFIX,letsbonk.fun
 HOST-SUFFIX,hyperliquid.xyz
+HOST-SUFFIX,x402scan.com
+HOST-SUFFIX,x402.org
+HOST-KEYWORD,x402
+HOST-SUFFIX,zama.org
+HOST-SUFFIX,flap.sh
+# > meme
+HOST-SUFFIX,pump.fun
+HOST-SUFFIX,gmgn.ai
+HOST-SUFFIX,four.meme
+HOST-SUFFIX,xxyy.io
+HOST-SUFFIX,debot.ai
+HOST-SUFFIX,axiom.trade
+HOST-SUFFIX,fomo.family
+HOST-SUFFIX,echosync.io
+HOST-SUFFIX,pair.fund
 # > Binane
 HOST-KEYWORD,binance
 HOST-SUFFIX,binance.com

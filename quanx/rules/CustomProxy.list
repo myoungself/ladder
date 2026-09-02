@@ -1,0 +1,4 @@
+# ---custom proxy---
+HOST-SUFFIX,interactivebrokers.com
+HOST-SUFFIX,interactivebrokers.com.hk
+HOST-SUFFIX,github.com
